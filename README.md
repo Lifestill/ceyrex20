@@ -4,4 +4,4 @@ Hi my name is Ceyhun! I am a tiny developer dealing with web development.
 
 + I knows Typescript, Javascript and HTML/CSS.
 
-![about][https://github-readme-stats.vercel.app/api?username=ceyrex20&show_icons=true&include_all_commits=true]
+![about](https://github-readme-stats.vercel.app/api?username=ceyrex20&show_icons=true&include_all_commits=true)
